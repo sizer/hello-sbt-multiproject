@@ -1,1 +1,3 @@
 GET     /                           controllers.app.HomeController.index
+
+->  /core core.Routes
